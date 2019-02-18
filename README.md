@@ -1,5 +1,5 @@
 # 📺Computer Vision I📺
-Computational Intelligence Couse in :musical_note: Uni Bonn on 2018/19WS
+Computer Vision Couse in :musical_note: Uni Bonn on 2018/19WS
 - Sheet1: 
 - Sheet2: 
 - Sheet3:
